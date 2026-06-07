@@ -1,1 +1,4 @@
-pip install tensorflow torch torchvision opencv-python pillow numpy matplotlib easyocr pyttsx3 gTTS streamlit
+streamlit
+google-generativeai
+gtts
+Pillow
